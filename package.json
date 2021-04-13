@@ -10,6 +10,10 @@
     "electron": "^5.0.7",
     "eslint": "^7.24.0",
     "react": "^16.8.6",
+    "react-app": "^1.1.2",
     "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.23.2"
   }
 }
